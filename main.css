@@ -6,4 +6,9 @@ body {
     text-align: center;
     font-size: 20px;
   }
-  
+  #button
+  {
+    color: rgba(rgba(173, 172, 172, 0.555));
+    text-align: center;
+    font-size: 20px;
+  }
